@@ -21,7 +21,7 @@ const rows = [
 ];
 const Skill = () => {
   return (
-
+    // fontend
     <Container >
         <Box>
             <Typography variant='h2' >Skills</Typography>
